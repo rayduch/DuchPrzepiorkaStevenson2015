@@ -1,0 +1,16 @@
+Appendix Table 3.do (text/x-stata-syntax; charset=US-ASCII) 5416 bytes.
+attribution.tab (text/tab-separated-values) 4858105 bytes.
+CIdata_dist_1_prop1.tab (text/tab-separated-values) 267 bytes.
+CIdata_dist_1_prop2.tab (text/tab-separated-values) 461 bytes.
+CIdata_dist_1_prop3.tab (text/tab-separated-values) 654 bytes.
+CIdata_dist_1_prop4.tab (text/tab-separated-values) 848 bytes.
+CIdata_dist_1_prop5.tab (text/tab-separated-values) 1047 bytes.
+dps_Figure_6_Table_6online.do (text/x-stata-syntax; charset=US-ASCII) 11199 bytes.
+Figure 1.do (text/x-stata-syntax) 736 bytes.
+Figure 4.do (text/x-stata-syntax; charset=US-ASCII) 1789 bytes.
+Figure 8.do (text/x-stata-syntax; charset=US-ASCII) 709 bytes.
+Figures 10_through 13 Online Appendix.do (text/x-stata-syntax; charset=US-ASCII) 22468 bytes.
+Figures2_3_7.do (text/x-stata-syntax; charset=US-ASCII) 10675 bytes.
+treatmenntdataQ1.tab (text/tab-separated-values) 5059 bytes.
+treatmenntdataQ2.tab (text/tab-separated-values) 6583 bytes.
+treatmenntdataQ3.tab (text/tab-separated-values) 6558 bytes.
